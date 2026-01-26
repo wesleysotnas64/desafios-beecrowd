@@ -1,4 +1,4 @@
 ﻿using iniciante.challenges;
 
-IChallenge challenge = new Challenge1001();
+IChallenge challenge = new Challenge1005();
 challenge.Execute();
