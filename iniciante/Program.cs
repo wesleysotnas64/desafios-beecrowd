@@ -2,5 +2,5 @@
 
 Console.Clear();
 
-IChallenge challenge = new Challenge1021();
+IChallenge challenge = new Challenge1036();
 challenge.Execute();
